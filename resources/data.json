@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"KLM  engineering college for women",
+    "data":["2014-18","75%"]
+},
+  {
+    "degree":"state board of technical education(diploma)",
+    "college":"sri venkateshwara engineering college",
+    "data":["2013-15","77%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"Nagarjuna degree college",
+    "data":["2012-13","72%"]
+  }
+]
+}
